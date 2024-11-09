@@ -1,0 +1,6 @@
+arandr
+blueman
+xfce-power-manager
+pavucontrol
+lxappearance
+
