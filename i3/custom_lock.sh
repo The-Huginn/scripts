@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# Fix monitor layout
+~/scripts/i3/monitor_fix.sh
+
 tmpbg='/tmp/screen.png'
 icon="$HOME/Pictures/lock.png"
 
